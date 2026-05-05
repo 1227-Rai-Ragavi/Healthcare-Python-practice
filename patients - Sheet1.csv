@@ -1,0 +1,11 @@
+patient_id,name,age,condition,num_visits
+P001,Alice Johnson,45,Diabetes,12
+P002,Bob Smith,32,Hypertension,5
+P003,Carol Lee,58,Diabetes,18
+P004,David Kim,41,Asthma,7
+P005,Eva Rodriguez,67,Diabetes,22
+P006,Asthma,6,Hypertension,3
+P007,Grace Patel,53,Asthma,9
+P008,Henry Brown,39,Diabetes,14
+P009,Isabel White,72,Hypertension,8
+P010,James Martin,48,,
